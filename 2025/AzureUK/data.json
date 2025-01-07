@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "azurecoder"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "UK Azure Users Group",
+    "Country": "England",
+    "Url": "https://www.meetup.com/ukazureusergroup",
+    "Description_SessionizeApiId": "0760chl7",
+    "SessionizeApiId": "0760chl7",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp3757",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "{Logofilename}"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Elastacloud Offices in Toynbee Street, London",
+        "Address": "11 Toynbee St, London E1 7NE",
+        "Description_Lat_Lon": "51.517551, -0.074350",
+        "Latitude": 51.517551,
+        "Longitude": -0.074350
+      }
+    ]
+  }
+}
